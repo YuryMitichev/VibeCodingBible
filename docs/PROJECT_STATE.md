@@ -63,7 +63,7 @@ Last updated: 2026-07-11
 |---|---|---|
 | Предисловие | book/00-FrontMatter/00-Preface.md | Stub (требует редактуры) |
 | Часть I, Глава 1 | book/01-Part-I/01-The-Last-Tool.md | ✅ Draft (финальная) |
-| Часть I, Глава 2 | book/01-Part-I/02-What-is-Vibe-Coding.md | Stub |
+| Часть I, Глава 2 | book/01-Part-I/02-What-is-Vibe-Coding.md | ✅ Draft (финальная) |
 ---
 
 ### Прогресс по главам

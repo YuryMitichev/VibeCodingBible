@@ -59,7 +59,7 @@ Status: Active
 
 ---
 
-## Глава 2
+## Глава 2 ✅
 
 Что такое Vibe Coding
 
@@ -73,7 +73,6 @@ Status: Active
 Практика
 
 Первый AI-assisted проект.
-
 ---
 
 ## Глава 3
