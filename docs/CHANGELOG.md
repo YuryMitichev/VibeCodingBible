@@ -72,3 +72,14 @@
 [0.2.1]: https://github.com/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/compare/initial...v0.1.0
+
+## [0.2.2] - 2026-07-12
+
+### Added
+- Полный текст Главы 1: "Последний инструмент, который вам придётся изучить"
+- Файл-заглушка для Главы 2: "Что такое Vibe Coding"
+
+### Changed
+- Обновлён BOOK_OUTLINE.md (добавлена Глава 1, все главы сдвинуты на +1)
+- Обновлён PROJECT_STATE.md (статусы глав)
+- Переименован файл: 01-What-is-Vibe-Coding.md → 01-The-Last-Tool.md
